@@ -6,8 +6,8 @@
 
 
 # about me:
-### in full dawn of strength:
-### I hope we teach I have a sense of humor, I like to have fun and also sleep.
+ In full dawn of strength:
+ I hope we teach I have a sense of humor, I like to have fun and also sleep
 
 # My skils.
 - html
